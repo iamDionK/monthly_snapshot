@@ -1,0 +1,11 @@
+# Personal Finance Tools
+
+Small Python scripts I'm using to practice coding and model real-life money questions.
+
+## Scripts
+
+- `monthly_snapshot.py`  
+  Interactive script that:
+  - Asks for income, expenses, and investing target
+  - Shows base monthly savings
+  - Calculates how much side-hustle income is needed to hit the target
