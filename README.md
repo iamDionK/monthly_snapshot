@@ -26,4 +26,4 @@ if side_hustle_needed == 0:
     print("\nYou're already meeting your investing target with your main income.")
 else:
     print(f"\nYou need about ${side_hustle_needed} per month from side hustles to hit your target.")
-    Add monthly finace snapshot script
+
